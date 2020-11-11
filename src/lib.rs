@@ -1,3 +1,5 @@
+mod errors;
+
 fn add() -> u32 {
     return 1;
 }
